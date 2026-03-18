@@ -32,6 +32,8 @@ artifacts/
 *.dbmdl
 *.jfm
 
+.vs/
+
 # Others
 TestResults/
 *.vspscc
